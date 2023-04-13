@@ -76,6 +76,10 @@ p {
     color: rgb(223, 231, 215);
 }
 
+.fun-facts p ul {
+    color: black;
+}
+
 .my-work {
     margin-bottom: 20px;
     padding: 50px;
