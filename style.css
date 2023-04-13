@@ -62,7 +62,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: rgb(127, 194, 239);
+    background-color: rgba(170, 198, 217, 0.432);
     color: rgb(223, 231, 215);
 }
 
@@ -71,7 +71,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: rgb(127, 194, 239);
+    background-color: rgba(170, 198, 217, 0.432);
     color: rgb(223, 231, 215);
 }
 
@@ -80,7 +80,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: rgb(127, 194, 239);
+    background-color: rgba(170, 198, 217, 0.432);
     color: rgb(223, 231, 215);
 }
 
@@ -89,6 +89,6 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: rgb(127, 194, 239);
+    background-color: rgba(170, 198, 217, 0.432);
     color: rgb(223, 231, 215);
 }
