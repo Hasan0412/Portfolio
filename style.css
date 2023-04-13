@@ -30,3 +30,11 @@ body {
     font-size: 20px;
 }
 
+.navigation div ul {
+    list-style-type: none;
+}
+
+.navigation div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
