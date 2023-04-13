@@ -38,3 +38,13 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+p {
+    color: black
+    font-size: 16px;
+}
