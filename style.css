@@ -58,6 +58,7 @@ p {
 
 /* The following are the articles  within the main section. */
 .about-me {
+    margin-top: 20px;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
