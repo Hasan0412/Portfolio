@@ -16,3 +16,17 @@ body {
     background-color: rgb(127, 194, 239);
     color: rgb(223, 231, 215);
 }
+
+.navigation h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.navigation div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
