@@ -6,13 +6,13 @@
 }
 
 body {
-    background-color: chocolate;
+    background-color: white;
 }
 
 /* This is the navigation bar. */
 .navigation {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: blue;
-    color: chartreuse;
+    background-color: rgb(127, 194, 239);
+    color: rgb(223, 231, 215);
 }
