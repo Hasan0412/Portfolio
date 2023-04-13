@@ -9,6 +9,15 @@ body {
     background-color: white;
 }
 
+/* This is the aside. */
+.image img {
+    display: block;
+    margin-top: 20px;
+    margin-right: 20px;
+    max-width: 370px;
+    float: right;
+}
+
 /* This is the navigation bar. */
 .navigation {
     padding: 20px;
