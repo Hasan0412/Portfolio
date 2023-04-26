@@ -76,19 +76,10 @@ p {
     color: rgb(223, 231, 215);
 }
 
-.fun-facts {
+.fun-facts, .my-work, .my-services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: rgb(127, 194, 239);
-    color: rgb(223, 231, 215);
-}
-
-.my-work {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 800px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: rgb(127, 194, 239);
     color: rgb(223, 231, 215);
@@ -96,13 +87,4 @@ p {
 
 img {
     float: right;
-}
-
-.my-services {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: rgb(127, 194, 239);
-    color: rgb(223, 231, 215);
 }
