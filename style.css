@@ -13,9 +13,9 @@ body {
 .image img {
     display: block;
     margin-top: 20px;
-    margin-right: 20px;
+    margin-left: 20px;
     max-width: 370px;
-    float: right;
+    float: left;
 }
 
 /* This is the navigation bar. */
