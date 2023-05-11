@@ -10,6 +10,7 @@ body {
 }
 
 /* This is the aside. */
+
 .image img {
     display: block;
     margin-top: 20px;
@@ -17,8 +18,6 @@ body {
     max-width: 370px;
     float: left;
 }
-
-
 
 /* This is the navigation bar. */
 .navigation {
