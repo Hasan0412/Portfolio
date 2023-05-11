@@ -14,7 +14,7 @@ This website has been deployed, see screenshot and link below.
 
 ## Screenshot
 
-![screenshot](/img/localhost_52330_index.html.png)
+![screenshot](/img/localhost_52330_index.html%20(2).png)
 
 ## Link
 
